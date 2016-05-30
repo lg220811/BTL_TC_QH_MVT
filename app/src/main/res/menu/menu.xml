@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="MST Tree"
+        android:id="@+id/mst"></item>
+    <item android:title="SPT Tree"
+        android:id="@+id/spt"></item>
+    <item android:title="MENTOR Tree"
+        android:id="@+id/mentor"></item>
+</menu>
